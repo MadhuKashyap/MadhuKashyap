@@ -53,7 +53,6 @@
 
 <br/>
 
-  [![Madhu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
-   <br />
-   <br />
+  <!--[![Madhu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)-->
+ 
    
