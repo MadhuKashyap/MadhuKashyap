@@ -11,18 +11,19 @@
 👩‍🎓 Hey! I'm Madhu, a 23 year old software engineer at [**TCS**](https://github.com/tcs) working Bangalore, India.
 
 :octocat: I have a soft spot for technology and competitive programming💖 
+
 My preferred language is Java/C++ and sometimes English😅
 :octocat:! 
 
-💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. 
-
-👩‍💻 Nowadays, I’m learning Spring Boot with Kotlin, iOS development, Next.js and System Design.  
+💖 I was member of Silicon's ISTE Student Chapter and speaker in Campus Placements.
 
 
-⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
+👩‍💻 Nowadays, I’m learning Spring Boot and System Design.  
 
-💸 You can support my OSS work by [buying me a beer 🍺](https://www.buymeacoffee.com/shreyacasmalert)
 
+⚡ Fun fact: I am 90% hard work and rest Stack Overflow 😪
+
+💸 My aim is to contribute more towards open source in coming days .
 
 <br> 
 
