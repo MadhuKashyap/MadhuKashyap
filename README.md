@@ -12,7 +12,7 @@
 
 :octocat: I have a soft spot for technology and competitive programming💖 
 
-My preferred language is Java/C++ and sometimes English😅
+:octocat: My preferred language is Java/C++ and sometimes English😅
 :octocat:! 
 
 💖 I was member of Silicon's ISTE Student Chapter and speaker in Campus Placements.
