@@ -7,7 +7,7 @@
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
-<a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/kumari-madhu/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<!--<a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>--><a href="https://www.linkedin.com/in/kumari-madhu/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 👩‍🎓 Hey! I'm Madhu, a 23 year old software engineer at [**TCS**](https://github.com/tcs) working in Bangalore, India.
 
 :octocat: I have a soft spot for technologies and competitive programming💖 
