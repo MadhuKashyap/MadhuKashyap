@@ -31,22 +31,22 @@
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  <!--![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)-->
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
+- 💾 &nbsp;
+   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🌐 &nbsp;
-   <!--!![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)-->
-  <!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  <!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)-->
+   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
+   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
 - ⚙️ &nbsp;
+  ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=springboot)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Cursor](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Cursor](https://img.shields.io/badge/Cursor-333333?style=flat&logo=data:image/svg+xml;base64,)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   
-
 <br/>
 
   <!--[![Madhu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)-->
