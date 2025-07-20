@@ -6,24 +6,23 @@
 
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
-   ## :wave: About Me 
-<!--<a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>--><a href="https://www.linkedin.com/in/kumari-madhu/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Madhu, a 23 year old software engineer at Telio, Ex-TCS(Digital) working in Bangalore, India.
+ ## 👋 About Me
 
-:octocat: I have a soft spot for technologies and competitive programming💖 
+<a href="https://www.linkedin.com/in/kumari-madhu/" target="_blank">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="right">
+</a>
 
-:octocat: My preferred language is Java/C++ and sometimes English😅
-:octocat:! 
+👩‍💻 Hey! I'm Madhu, a Software Development Engineer based in Bangalore, India.
 
-💖 I was member of Silicon's ISTE Student Chapter and speaker in Campus Placements.
+🔹 Currently working at **Increff**, where I build scalable microservices and integrations for clients like Meesho, Celio, adidas, and AKG using **Java, Spring, MySQL, RabbitMQ**, and more.
 
+🛠 Previously at **Telio**, I implemented Kafka consumers, migrated services to Vert.x, and enhanced dashboard functionalities.
 
-👩‍💻 Nowadays, I’m learning Spring Boot and System Design.  
+🏢 I also worked at **TCS (Digital)** as a Java and Dell-Boomi developer.
 
+🎓 Graduated with a B.Tech in Computer Science (GPA: 8.98) from **Silicon Institute of Technology**.
 
-⚡ Fun fact: I am 90% hard work and rest Stack Overflow 😪
-
-💸 My aim is to contribute more towards open source in coming days .
+📌 Passionate about backend development, system design, and solving DSA problems (450+ on LeetCode!).
 
 <br> 
 
