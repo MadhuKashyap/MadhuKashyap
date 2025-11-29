@@ -16,15 +16,9 @@
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="right">
 </a>
 
-👩‍💻 Hey! I'm Madhu, a Software Development Engineer based in Bangalore, India.
+👩‍💻 Hey! I'm Madhu, a Developer based in Bangalore, India.
 
-🔹 Currently working at **Increff**, where I build scalable microservices and integrations for clients like Meesho, Celio, adidas, and AKG using **Java, Spring, MySQL, RabbitMQ**, and more.
-
-🛠 Previously at **Telio**, I implemented Kafka consumers, migrated services to Vert.x, and enhanced dashboard functionalities.
-
-🏢 I also worked at **TCS (Digital)** as a Java and Dell-Boomi developer.
-
-🎓 Graduated with a B.Tech in Computer Science (GPA: 8.98) from **Silicon Institute of Technology**.
+🔹 Currently working as **Principal Engineer** and exploring scalable systems, their deployement and management.
 
 📌 Passionate about backend development, system design, and solving DSA problems (450+ on LeetCode!).
 
